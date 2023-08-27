@@ -1,0 +1,106 @@
+* {
+    font-family: Helvetica;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0;
+  }
+
+
+  header {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 96.5%;
+    min-height: 100px; /* optional, sets a minimum height */
+    padding: 20px; /* adds some space around the content */
+    background-image: url('/Users/geannis/Desktop/Dev/Projects/DevProject/resources/css/pattern.jpeg');
+  }
+  
+  #header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+  }
+
+  #brushes {
+    margin-left: 15px;
+    margin-top: 70px;
+    width: 96.5%;
+    height: 40px;
+    background-color: mediumspringgreen;
+  }
+
+  #textBrushes {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+  }
+
+  figure.brushes {
+    margin-top: 30px;
+  }
+
+  #brushesImg {
+    margin-top: 30px;
+    margin-left: 15px;
+    margin: 0;
+  }
+
+  .strong {
+    color: blue;
+  }
+
+  .brushes {
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+
+  #frames {
+    position: relative;
+    margin-left: 15px;
+    margin-top: 50px;
+    width: 96.5%;
+    height: 40px;
+    background-color: lightcoral;
+  }
+
+  #textFrames {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+  }
+
+  .frames {
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+
+  #framesImg {
+    margin: 0;
+  }
+
+  #paint {
+    position: relative;
+    margin-left: 15px;
+    margin-top: 50px;
+    width: 96.5%;
+    height: 40px;
+    background-color: skyblue;
+  }
+
+  #textPaint {
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+  }
+
+  .paint {
+    margin-left: 15px;
+    margin-top: 30px;
+  }
+
+  #paintImg {
+    margin: 0;
+  }
+
